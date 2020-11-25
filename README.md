@@ -51,7 +51,7 @@ The data will be provided by downloading from the E2EFPL dataset web server.
 ## Usage report, etc.
 You are required to give E2EFPL dataset Co., Ltd. notice in advance of any press releases or media interviews regarding research results. Please submit a report on publications at conferences and in journals every year in response to a request from the E2EFPL dataset office. Before a private company employee joins the laboratory or your laboratory starts a new collaboration with a private company after signing the Consent Form, please consult with the E2EFPL dataset office well in advance.
 
-# A proposed model architecture for the layout of the custom-size furniture, code and model will be released soon:)
+# A proposed model architecture for the layout of End-to-end Generative Floor-plan and Layout, code and model will be released soon:)
 <p align="left"><img width="80%" src="figs/dataset-fig4.png"/></p>
 
 ## Update information
